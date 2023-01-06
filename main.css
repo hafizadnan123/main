@@ -1,0 +1,63 @@
+.wrapper{
+            width: 800px;
+            margin: 24px auto;
+			
+        }
+		
+  .main_wrapper{
+            width: 750px;
+            margin: 24px auto;
+			font-family:Arial;
+        }
+ .notice{
+            padding-top: 40px;
+            color: red;
+            text-align: center;
+        }
+h1{
+			text-align:center;
+			margin-bottom:75px;
+			
+		}
+
+.greetings{
+	font-family:Arial;
+	font-size: 10pt
+}
+
+.full_name{
+	font-family:Arial;
+	font-size:16pt;
+	font-weight:bold;
+	background-color:#10069f;
+	color:white;
+	
+}
+.designation, .number_initial{
+	font-family:Arial;
+	font-size:10pt;
+	color:#10069f;
+	
+}
+
+.number, .company_address{
+	font-family:Arial;
+	font-size:10pt;
+	color:  #4b4f58;
+}
+.company_address a{
+	color:  #4b4f58;
+}
+.company_name{
+	font-family:Arial;
+	font-size:12pt;
+	font-weight:bold;
+	color:#10069f;
+	
+}
+
+.footer{
+	font-family:Arial;
+	font-size:10pt;	
+	color:#b7b9bc;
+}
